@@ -1,0 +1,14 @@
+{
+  "name": "iren-field-tools",
+  "version": "1.0.0",
+  "private": true,
+  "description": "IREN Field Tools - QC Register and Construction Tracker (Azure Static Web Apps)",
+  "scripts": {
+    "test": "node --test \"tests/*.test.js\""
+  },
+  "devDependencies": {
+    "jsdom": "^24.1.0",
+    "xlsx": "^0.18.5"
+  },
+  "engines": { "node": ">=20" }
+}
